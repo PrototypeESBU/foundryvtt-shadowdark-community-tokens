@@ -1,0 +1,22 @@
+{
+    "id": "shadowdark-community-tokens",
+    "title": "Shadowdark RPG: Community Tokens",
+    "version": "1.0.0",
+    "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+    },
+    "relationships": {
+    "systems": [
+        {
+        "id": "shadowdark",
+        "type": "system"
+        }
+    ]
+    },
+	"flags": {
+        "shadowdark-community-tokens": {
+            "Community Series 1": "modules/shadowdark-community-tokens/artwork/series-1/mapping.json"
+        }
+	}
+}
