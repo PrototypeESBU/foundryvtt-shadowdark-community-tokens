@@ -7,13 +7,23 @@
     "verified": "12"
     },
     "relationships": {
-    "systems": [
-        {
-        "id": "shadowdark",
-        "type": "system"
-        }
-    ]
+        "systems": [
+            {
+                "id": "shadowdark",
+                "type": "system"
+            }
+        ]
     },
+    "authors": [
+		{
+			"name": "Delgore",
+			"discord": "delgore"
+		},
+        {
+			"name": "Prototype",
+			"discord": "prototypeesbu"
+		}
+    ],
 	"flags": {
         "shadowdark-community-tokens": {
             "Community Series 1": "modules/shadowdark-community-tokens/artwork/series-1/mapping.json"
