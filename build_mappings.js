@@ -2,7 +2,7 @@
 // script for building a mapping file that includes only completed files.
 //
 const fs = require('fs');
-const filePath = "artwork/series-1/mapping.json";
+const filePath = "artwork/mapping.json";
 const prefix = "modules/shadowdark-community-tokens/";
 let total = 0;
 let complete = 0;
