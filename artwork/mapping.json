@@ -2,10 +2,10 @@
 	"shadowdark.monsters": {
         "sgVqRuCaadRK1P7R": {
             "__MONSTER_NAME__": "Aboleth",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/aboleth.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/aboleth.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/aboleth.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/aboleth.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -13,10 +13,10 @@
         },
         "k2YdCMGiq3USE8oE": {
             "__MONSTER_NAME__": "Acolyte",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/acolyte.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/acolyte.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/acolyte.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/acolyte.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -24,10 +24,10 @@
         },
         "63d5P0opwEQTdDIn": {
             "__MONSTER_NAME__": "Angel, Domini",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/angel-domini.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/angel-domini.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/angel-domini.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/angel-domini.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -35,10 +35,10 @@
         },
         "X8hc2Uhflvy8F634": {
             "__MONSTER_NAME__": "Angel, Principi",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/angel-principi.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/angel-principi.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/angel-principi.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/angel-principi.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -46,10 +46,10 @@
         },
         "9mHBuBhx1RxUdheA": {
             "__MONSTER_NAME__": "Angel, Seraph",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/angel-seraph.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/angel-seraph.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/angel-seraph.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/angel-seraph.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -57,10 +57,10 @@
         },
         "qSeHWgP59WltutCz": {
             "__MONSTER_NAME__": "Animated Armor",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/animated-armor.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/animated-armor.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/animated-armor.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/animated-armor.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -68,10 +68,10 @@
         },
         "rrI5NuJ8q0Pm4ehs": {
             "__MONSTER_NAME__": "Ankheg",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ankheg.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ankheg.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ankheg.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ankheg.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -79,10 +79,10 @@
         },
         "52p2phLsOZiNFTFS": {
             "__MONSTER_NAME__": "Ape",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ape.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ape.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ape.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ape.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -90,10 +90,10 @@
         },
         "z4UPCFgmpXHwzmJu": {
             "__MONSTER_NAME__": "Ape, Snow",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ape-snow.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ape-snow.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ape-snow.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ape-snow.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -101,10 +101,10 @@
         },
         "9R3qr0129OxaXMcy": {
             "__MONSTER_NAME__": "Apprentice",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/apprentice.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/apprentice.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/apprentice.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/apprentice.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -112,10 +112,10 @@
         },
         "GzjB5DsORxRuX2MV": {
             "__MONSTER_NAME__": "Archangel",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/archangel.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/archangel.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/archangel.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/archangel.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -123,10 +123,10 @@
         },
         "OkhcwZ7JqJxTgkJo": {
             "__MONSTER_NAME__": "Archdevil",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/archdevil.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/archdevil.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/archdevil.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/archdevil.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -134,10 +134,10 @@
         },
         "5NUw5FTgSVwAi0nL": {
             "__MONSTER_NAME__": "Archmage",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/archmage.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/archmage.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/archmage.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/archmage.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -145,10 +145,10 @@
         },
         "I5y9YDSIg2n0u8CM": {
             "__MONSTER_NAME__": "Assassin",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/assassin.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/assassin.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/assassin.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/assassin.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -156,10 +156,10 @@
         },
         "rEhCGVPPzY0R18oJ": {
             "__MONSTER_NAME__": "Azer",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/azer.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/azer.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/azer.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/azer.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -167,10 +167,10 @@
         },
         "VM65vWCNjlx5tKTP": {
             "__MONSTER_NAME__": "Badger",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/badger.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/badger.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/badger.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/badger.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -178,10 +178,10 @@
         },
         "AMSI3MCLvpcZpJPO": {
             "__MONSTER_NAME__": "Bandit",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bandit.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bandit.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bandit.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bandit.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -189,10 +189,10 @@
         },
         "r9PchmCuVg1r9FOA": {
             "__MONSTER_NAME__": "Basilisk",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/basilisk.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/basilisk.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/basilisk.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/basilisk.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -200,10 +200,10 @@
         },
         "EJ94w4A9mb9ETSGA": {
             "__MONSTER_NAME__": "Bat, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bat-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bat-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bat-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bat-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -211,10 +211,10 @@
         },
         "CUpk1oMNktqZPdXp": {
             "__MONSTER_NAME__": "Bat, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bat-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bat-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bat-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bat-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -222,10 +222,10 @@
         },
         "RG84tprafQTDEFCa": {
             "__MONSTER_NAME__": "Bear, Brown",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bear-brown.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bear-brown.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bear-brown.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bear-brown.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -233,10 +233,10 @@
         },
         "A84XNl4aGBeeDDLu": {
             "__MONSTER_NAME__": "Bear, Polar",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bear-polar.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bear-polar.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bear-polar.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bear-polar.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -244,10 +244,10 @@
         },
         "k8tAgECWIzPIStGU": {
             "__MONSTER_NAME__": "Beastman",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/beastman.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/beastman.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/beastman.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/beastman.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -255,10 +255,10 @@
         },
         "dqWmtEZjAMQLmCBn": {
             "__MONSTER_NAME__": "Berserker",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/berserker.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/berserker.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/berserker.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/berserker.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -266,10 +266,10 @@
         },
         "LjwxMX3llNTrJk78": {
             "__MONSTER_NAME__": "Black Pudding",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/black-pudding.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/black-pudding.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/black-pudding.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/black-pudding.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -277,10 +277,10 @@
         },
         "bXYsB2bHIdtOsZgV": {
             "__MONSTER_NAME__": "Boar",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/boar.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/boar.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/boar.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/boar.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -288,10 +288,10 @@
         },
         "P3UFDBgbA5kkwcYb": {
             "__MONSTER_NAME__": "Brachiosaurus",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/brachiosaurus.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/brachiosaurus.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/brachiosaurus.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/brachiosaurus.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -299,10 +299,10 @@
         },
         "MnV9R6AbzWjLreaZ": {
             "__MONSTER_NAME__": "Brain Eater",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/brain-eater.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/brain-eater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/brain-eater.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/brain-eater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -310,10 +310,10 @@
         },
         "qUuNdFtYmo1vXVP5": {
             "__MONSTER_NAME__": "Bugbear",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bugbear.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bugbear.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bugbear.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bugbear.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -321,10 +321,10 @@
         },
         "ktpbMeq6xDzNbOu3": {
             "__MONSTER_NAME__": "Bulette",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/bulette.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/bulette.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/bulette.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/bulette.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -332,10 +332,10 @@
         },
         "JO2HwD53QhEuV3W9": {
             "__MONSTER_NAME__": "Camel",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/camel.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/camel.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/camel.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/camel.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -343,10 +343,10 @@
         },
         "nhKDBbnOnXXTzfBr": {
             "__MONSTER_NAME__": "Cave Brute",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/cave-brute.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/cave-brute.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/cave-brute.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/cave-brute.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -354,10 +354,10 @@
         },
         "j7sQ6Km2jSx5twCC": {
             "__MONSTER_NAME__": "Cave Creeper",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/cave-creeper.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/cave-creeper.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/cave-creeper.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/cave-creeper.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -365,10 +365,10 @@
         },
         "5AV9DF5BbMu7mvVO": {
             "__MONSTER_NAME__": "Centaur",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/centaur.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/centaur.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/centaur.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/centaur.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -376,10 +376,10 @@
         },
         "W9n69R2FY4EIgBuQ": {
             "__MONSTER_NAME__": "Centipede, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/centipede-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/centipede-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/centipede-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/centipede-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -387,10 +387,10 @@
         },
         "lcqq47H1YVF0ABnp": {
             "__MONSTER_NAME__": "Centipede, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/centipede-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/centipede-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/centipede-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/centipede-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -398,10 +398,10 @@
         },
         "5SaVYhtOSTOUcHCV": {
             "__MONSTER_NAME__": "Chimera",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/chimera.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/chimera.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/chimera.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/chimera.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -409,10 +409,10 @@
         },
         "4v8PY6yOUcQOTWWo": {
             "__MONSTER_NAME__": "Chuul",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/chuul.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/chuul.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/chuul.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/chuul.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -420,10 +420,10 @@
         },
         "SeY0lvD3U4pr6mXD": {
             "__MONSTER_NAME__": "Cloaker",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/cloaker.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/cloaker.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/cloaker.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/cloaker.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -431,10 +431,10 @@
         },
         "xUxKG0CR6Elw1l7h": {
             "__MONSTER_NAME__": "Cockatrice",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/cockatrice.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/cockatrice.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/cockatrice.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/cockatrice.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -442,10 +442,10 @@
         },
         "ibQF9DMmu8sTLz4B": {
             "__MONSTER_NAME__": "Couatl",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/couatl.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/couatl.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/couatl.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/couatl.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -453,10 +453,10 @@
         },
         "2KRkhIG0f9YAnUHb": {
             "__MONSTER_NAME__": "Crab, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/crab-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/crab-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/crab-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/crab-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -464,10 +464,10 @@
         },
         "obS0HaAx233uar7B": {
             "__MONSTER_NAME__": "Crocodile",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/crocodile.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/crocodile.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/crocodile.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/crocodile.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -475,10 +475,10 @@
         },
         "CpHttsoemSoZRiDe": {
             "__MONSTER_NAME__": "Cultist",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/cultist.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/cultist.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/cultist.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/cultist.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -486,10 +486,10 @@
         },
         "68wDauouPEUU9oMR": {
             "__MONSTER_NAME__": "Cyclops",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/cyclops.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/cyclops.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/cyclops.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/cyclops.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -497,10 +497,10 @@
         },
         "0JAEN5FsKjaXXZaA": {
             "__MONSTER_NAME__": "Darkmantle",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/darkmantle.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/darkmantle.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/darkmantle.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/darkmantle.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -508,10 +508,10 @@
         },
         "5J7IfGiC6Za14VuU": {
             "__MONSTER_NAME__": "Deep One",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/deep-one.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/deep-one.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/deep-one.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/deep-one.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -519,10 +519,10 @@
         },
         "ju93VWtuoi9BRX5F": {
             "__MONSTER_NAME__": "Demon, Balor",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/demon-balor.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/demon-balor.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/demon-balor.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/demon-balor.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -530,10 +530,10 @@
         },
         "UzRHO1MCMmYDSVzo": {
             "__MONSTER_NAME__": "Demon, Dretch",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/demon-dretch.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/demon-dretch.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/demon-dretch.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/demon-dretch.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -541,10 +541,10 @@
         },
         "CuwjaziXY6YoAg7O": {
             "__MONSTER_NAME__": "Demon, Glabrezu",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/demon-glabrezu.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/demon-glabrezu.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/demon-glabrezu.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/demon-glabrezu.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -552,10 +552,10 @@
         },
         "P53eJcTVm4axJ2bR": {
             "__MONSTER_NAME__": "Demon, Marilith",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/demon-marilith.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/demon-marilith.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/demon-marilith.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/demon-marilith.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -563,10 +563,10 @@
         },
         "0Q9d1621wpUEsuFC": {
             "__MONSTER_NAME__": "Demon, Vrock",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/demon-vrock.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/demon-vrock.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/demon-vrock.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/demon-vrock.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -574,10 +574,10 @@
         },
         "n4liAI4qBGY4orA4": {
             "__MONSTER_NAME__": "Devil, Barbed",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/devil-barbed.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/devil-barbed.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/devil-barbed.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/devil-barbed.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -585,10 +585,10 @@
         },
         "eytIJSxijnY4VZ3U": {
             "__MONSTER_NAME__": "Devil, Cubi",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/devil-cubi.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/devil-cubi.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/devil-cubi.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/devil-cubi.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -596,10 +596,10 @@
         },
         "8Lma2TIrsJc0IJzV": {
             "__MONSTER_NAME__": "Devil, Erinyes",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/devil-erinyes.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/devil-erinyes.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/devil-erinyes.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/devil-erinyes.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -607,10 +607,10 @@
         },
         "TWzBMX1oWU10HBOW": {
             "__MONSTER_NAME__": "Devil, Horned",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/devil-horned.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/devil-horned.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/devil-horned.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/devil-horned.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -618,10 +618,10 @@
         },
         "qhy4sxYqEkl171L5": {
             "__MONSTER_NAME__": "Devil, Imp",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/devil-imp.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/devil-imp.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/devil-imp.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/devil-imp.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -629,10 +629,10 @@
         },
         "ytftI0motwEnF29v": {
             "__MONSTER_NAME__": "Djinni",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/djinni.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/djinni.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/djinni.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/djinni.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -640,10 +640,10 @@
         },
         "6ldPPlMIMSd4ALoZ": {
             "__MONSTER_NAME__": "Doppelganger",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/doppelganger.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/doppelganger.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/doppelganger.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/doppelganger.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -651,10 +651,10 @@
         },
         "3ao87kQaYih26b9q": {
             "__MONSTER_NAME__": "Dragon, Desert",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dragon-desert.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dragon-desert.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dragon-desert.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dragon-desert.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -662,10 +662,10 @@
         },
         "8nKQ8hgoWY7vZHb4": {
             "__MONSTER_NAME__": "Dragon, Fire",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dragon-fire.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dragon-fire.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dragon-fire.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dragon-fire.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -673,10 +673,10 @@
         },
         "GGiSjGtAWFwFT81z": {
             "__MONSTER_NAME__": "Dragon, Forest",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dragon-forest.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dragon-forest.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dragon-forest.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dragon-forest.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -684,10 +684,10 @@
         },
         "CUMRox407hfN6Ho1": {
             "__MONSTER_NAME__": "Dragon, Frost",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dragon-frost.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dragon-frost.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dragon-frost.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dragon-frost.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -695,10 +695,10 @@
         },
         "wGmyKKVD5P4oE4RD": {
             "__MONSTER_NAME__": "Dragon, Sea",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dragon-sea.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dragon-sea.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dragon-sea.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dragon-sea.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -706,10 +706,10 @@
         },
         "KKc8fESqPDECz0bL": {
             "__MONSTER_NAME__": "Dragon, Swamp",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dragon-swamp.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dragon-swamp.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dragon-swamp.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dragon-swamp.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -717,10 +717,10 @@
         },
         "OQKt55SQZZUZhlNq": {
             "__MONSTER_NAME__": "Drow",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/drow.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/drow.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/drow.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/drow.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -728,10 +728,10 @@
         },
         "DttbFgMrxQulVKEf": {
             "__MONSTER_NAME__": "Drow, Drider",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/drow-drider.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/drow-drider.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/drow-drider.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/drow-drider.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -739,10 +739,10 @@
         },
         "mLujryShxJUk5Jys": {
             "__MONSTER_NAME__": "Drow, Priestess",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/drow-priestess.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/drow-priestess.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/drow-priestess.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/drow-priestess.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -750,10 +750,10 @@
         },
         "xwdLsiejN4nayUR5": {
             "__MONSTER_NAME__": "Druid",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/druid.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/druid.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/druid.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/druid.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -761,10 +761,10 @@
         },
         "vXaqgfDykZPdXnIm": {
             "__MONSTER_NAME__": "Dryad",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dryad.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dryad.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dryad.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dryad.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -772,10 +772,10 @@
         },
         "B1B7yApS28xtu8HN": {
             "__MONSTER_NAME__": "Duergar",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/duergar.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/duergar.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/duergar.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/duergar.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -783,10 +783,10 @@
         },
         "99s2guSyYKPWp1oy": {
             "__MONSTER_NAME__": "Dung Beetle, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/dung-beetle-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/dung-beetle-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/dung-beetle-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/dung-beetle-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -794,10 +794,10 @@
         },
         "o1aBfxHFxYVHLTRn": {
             "__MONSTER_NAME__": "Efreeti",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/efreeti.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/efreeti.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/efreeti.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/efreeti.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -805,10 +805,10 @@
         },
         "adojju5DJl1iWEg4": {
             "__MONSTER_NAME__": "Elemental, Air (Greater)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-air-greater.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-air-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-air-greater.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-air-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -816,10 +816,10 @@
         },
         "XEFAKSOcCUd8G89y": {
             "__MONSTER_NAME__": "Elemental, Air (Lesser)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-air-lesser.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-air-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-air-lesser.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-air-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -827,10 +827,10 @@
         },
         "w14e0EzbGfvjkbes": {
             "__MONSTER_NAME__": "Elemental, Earth (Greater)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-earth-greater.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-earth-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-earth-greater.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-earth-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -838,10 +838,10 @@
         },
         "Puc0P5lO6IphdIQP": {
             "__MONSTER_NAME__": "Elemental, Earth (Lesser)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-earth-lesser.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-earth-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-earth-lesser.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-earth-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -849,10 +849,10 @@
         },
         "V1wcRoUEnIbaNjXN": {
             "__MONSTER_NAME__": "Elemental, Fire (Greater)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-fire-greater.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-fire-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-fire-greater.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-fire-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -860,10 +860,10 @@
         },
         "vylW8UYkC5i9wAS7": {
             "__MONSTER_NAME__": "Elemental, Fire (Lesser)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-fire-lesser.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-fire-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-fire-lesser.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-fire-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -871,10 +871,10 @@
         },
         "Fb4nfQoOqplwmGHe": {
             "__MONSTER_NAME__": "Elemental, Water (Greater)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-water-greater.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-water-greater.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-water-greater.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-water-greater.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -882,10 +882,10 @@
         },
         "ZP1OsAWwqVppLts0": {
             "__MONSTER_NAME__": "Elemental, Water (Lesser)",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elemental-water-lesser.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elemental-water-lesser.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elemental-water-lesser.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elemental-water-lesser.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -893,10 +893,10 @@
         },
         "Ezs7usvuZdG6zMAL": {
             "__MONSTER_NAME__": "Elephant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elephant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elephant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elephant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elephant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -904,10 +904,10 @@
         },
         "GvxrOdZ1MejJL8DV": {
             "__MONSTER_NAME__": "Elf",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/elf.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/elf.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/elf.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/elf.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -915,10 +915,10 @@
         },
         "fcgq7uwsJEMMdRNx": {
             "__MONSTER_NAME__": "Ettercap",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ettercap.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ettercap.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ettercap.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ettercap.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -926,10 +926,10 @@
         },
         "RAEbIzHkREYWKvLh": {
             "__MONSTER_NAME__": "Fairy",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/fairy.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/fairy.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/fairy.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/fairy.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -937,10 +937,10 @@
         },
         "mpdnvoVyYfvu8yLP": {
             "__MONSTER_NAME__": "Frog, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/frog-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/frog-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/frog-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/frog-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -948,10 +948,10 @@
         },
         "FeQJTjVbjxIH6uHd": {
             "__MONSTER_NAME__": "Gargoyle",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gargoyle.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gargoyle.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gargoyle.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gargoyle.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -959,10 +959,10 @@
         },
         "udRspLiTyURGmLav": {
             "__MONSTER_NAME__": "Gelatinous Cube",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gelatinous-cube.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gelatinous-cube.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gelatinous-cube.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gelatinous-cube.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -970,10 +970,10 @@
         },
         "XNiuEhf8QpfOnVCJ": {
             "__MONSTER_NAME__": "Ghast",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ghast.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ghast.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ghast.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ghast.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -981,10 +981,10 @@
         },
         "LV2ZWlK1qUQz5J4K": {
             "__MONSTER_NAME__": "Ghost",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ghost.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ghost.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ghost.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ghost.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -992,10 +992,10 @@
         },
         "aJPxeuzZ597SWMES": {
             "__MONSTER_NAME__": "Ghoul",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ghoul.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ghoul.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ghoul.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ghoul.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1003,10 +1003,10 @@
         },
         "vdCzdpAsjmYTa1ps": {
             "__MONSTER_NAME__": "Giant, Cloud",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-cloud.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-cloud.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-cloud.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-cloud.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1014,10 +1014,10 @@
         },
         "PzLMBzFtioZhBlTq": {
             "__MONSTER_NAME__": "Giant, Fire",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-fire.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-fire.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-fire.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-fire.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1025,10 +1025,10 @@
         },
         "Om5RbAEQDbXI8MwN": {
             "__MONSTER_NAME__": "Giant, Frost",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-frost.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-frost.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-frost.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-frost.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1036,10 +1036,10 @@
         },
         "KFCqi1XnRQM7kZyj": {
             "__MONSTER_NAME__": "Giant, Goat",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-goat.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-goat.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-goat.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-goat.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1047,10 +1047,10 @@
         },
         "sFz8XfLheORSuxxM": {
             "__MONSTER_NAME__": "Giant, Hill",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-hill.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-hill.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-hill.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-hill.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1058,10 +1058,10 @@
         },
         "zIaJgXifG1mIY7FM": {
             "__MONSTER_NAME__": "Giant, Stone",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-stone.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-stone.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-stone.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-stone.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1069,10 +1069,10 @@
         },
         "owL9cUM2LTVpMarQ": {
             "__MONSTER_NAME__": "Giant, Storm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/giant-storm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/giant-storm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/giant-storm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/giant-storm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1080,10 +1080,10 @@
         },
         "8aDS9mPcNoxNc3Ha": {
             "__MONSTER_NAME__": "Gibbering Mouther",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gibbering-mouther.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gibbering-mouther.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gibbering-mouther.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gibbering-mouther.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1091,10 +1091,10 @@
         },
         "14gxjungNSpJTf3w": {
             "__MONSTER_NAME__": "Gladiator",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gladiator.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gladiator.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gladiator.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gladiator.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1102,10 +1102,10 @@
         },
         "d2dPYSjcZhR5psLj": {
             "__MONSTER_NAME__": "Gnoll",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gnoll.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gnoll.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gnoll.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gnoll.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1113,10 +1113,10 @@
         },
         "WMw4J1wECaLGf3Am": {
             "__MONSTER_NAME__": "Gnome, Deep",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gnome-deep.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gnome-deep.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gnome-deep.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gnome-deep.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1124,10 +1124,10 @@
         },
         "I7CMFbyFmFHVwE5U": {
             "__MONSTER_NAME__": "Goblin",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/goblin.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/goblin.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/goblin.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/goblin.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1135,10 +1135,10 @@
         },
         "R3CMnUkD0AVVkjuZ": {
             "__MONSTER_NAME__": "Goblin, Boss",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/goblin-boss.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/goblin-boss.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/goblin-boss.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/goblin-boss.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1146,10 +1146,10 @@
         },
         "Ot77aKKqmML8yboF": {
             "__MONSTER_NAME__": "Goblin, Shaman",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/goblin-shaman.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/goblin-shaman.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/goblin-shaman.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/goblin-shaman.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1157,10 +1157,10 @@
         },
         "y8O1UJWvVI7fDXpn": {
             "__MONSTER_NAME__": "Golem, Clay",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/golem-clay.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/golem-clay.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/golem-clay.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/golem-clay.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1168,10 +1168,10 @@
         },
         "IDgaXGnSleQcfAwm": {
             "__MONSTER_NAME__": "Golem, Flesh",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/golem-flesh.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/golem-flesh.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/golem-flesh.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/golem-flesh.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1179,10 +1179,10 @@
         },
         "KZNQRwpG4DaN57zB": {
             "__MONSTER_NAME__": "Golem, Iron",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/golem-iron.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/golem-iron.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/golem-iron.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/golem-iron.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1190,10 +1190,10 @@
         },
         "zLDg6vIYEj4wB0lQ": {
             "__MONSTER_NAME__": "Golem, Stone",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/golem-stone.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/golem-stone.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/golem-stone.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/golem-stone.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1201,10 +1201,10 @@
         },
         "c9n0i79sjiUWwkiV": {
             "__MONSTER_NAME__": "Gorgon",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gorgon.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gorgon.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gorgon.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gorgon.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1212,10 +1212,10 @@
         },
         "cfdlaAx4balFmIb4": {
             "__MONSTER_NAME__": "Gorilla",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gorilla.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gorilla.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gorilla.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gorilla.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1223,10 +1223,10 @@
         },
         "04acXEvbSpXQ1NjS": {
             "__MONSTER_NAME__": "Gray Ooze",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/gray-ooze.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/gray-ooze.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/gray-ooze.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/gray-ooze.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1234,10 +1234,10 @@
         },
         "Jn5JjEPCUT86txAg": {
             "__MONSTER_NAME__": "Grick",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/grick.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/grick.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/grick.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/grick.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1245,10 +1245,10 @@
         },
         "72LUt9AEysl22JGv": {
             "__MONSTER_NAME__": "Griffon",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/griffon.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/griffon.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/griffon.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/griffon.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1256,10 +1256,10 @@
         },
         "A6QrevZXpJ0SeiIv": {
             "__MONSTER_NAME__": "Grimlow",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/grimlow.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/grimlow.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/grimlow.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/grimlow.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1267,10 +1267,10 @@
         },
         "unySR92Si932s01C": {
             "__MONSTER_NAME__": "Guard",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/guard.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/guard.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/guard.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/guard.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1278,10 +1278,10 @@
         },
         "hi47xC8rfvviBoOO": {
             "__MONSTER_NAME__": "Hag, Night",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hag-night.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hag-night.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hag-night.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hag-night.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1289,10 +1289,10 @@
         },
         "vSA5WApOVd99itBh": {
             "__MONSTER_NAME__": "Hag, Sea",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hag-sea.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hag-sea.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hag-sea.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hag-sea.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1300,10 +1300,10 @@
         },
         "9q5O77FFFJ7pTjhL": {
             "__MONSTER_NAME__": "Hag, Weald",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hag-weald.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hag-weald.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hag-weald.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hag-weald.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1311,10 +1311,10 @@
         },
         "CsQXDNmBDfao8hij": {
             "__MONSTER_NAME__": "Harpy",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/harpy.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/harpy.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/harpy.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/harpy.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1322,10 +1322,10 @@
         },
         "PAb9czULqynbNnKj": {
             "__MONSTER_NAME__": "Hell Hound",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hell-hound.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hell-hound.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hell-hound.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hell-hound.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1333,10 +1333,10 @@
         },
         "SgSkMF7D9BE69ubm": {
             "__MONSTER_NAME__": "Hippogriff",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hippogriff.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hippogriff.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hippogriff.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hippogriff.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1344,10 +1344,10 @@
         },
         "WI7Tq6Vf2vmgBKcN": {
             "__MONSTER_NAME__": "Hippopotamus",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hippopotamus.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hippopotamus.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hippopotamus.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hippopotamus.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1355,10 +1355,10 @@
         },
         "uqHIz56KiBwTnbTJ": {
             "__MONSTER_NAME__": "Hobgoblin",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hobgoblin.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hobgoblin.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hobgoblin.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hobgoblin.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1366,10 +1366,10 @@
         },
         "olqRJQaOKMLkESQN": {
             "__MONSTER_NAME__": "Horse",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/horse.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/horse.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/horse.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/horse.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1377,10 +1377,10 @@
         },
         "hr2wYwBcd0WuJWK8": {
             "__MONSTER_NAME__": "Hydra",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/hydra.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/hydra.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/hydra.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/hydra.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1388,10 +1388,10 @@
         },
         "3cz1ScEh3YlMU1ql": {
             "__MONSTER_NAME__": "Invisible Stalker",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/invisible-stalker.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/invisible-stalker.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/invisible-stalker.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/invisible-stalker.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1399,10 +1399,10 @@
         },
         "uNah6fsgfkt4Aiet": {
             "__MONSTER_NAME__": "Jellyfish",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/jellyfish.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/jellyfish.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/jellyfish.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/jellyfish.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1410,10 +1410,10 @@
         },
         "BviPIbrJao1ubOX1": {
             "__MONSTER_NAME__": "Knight",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/knight.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/knight.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/knight.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/knight.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1421,10 +1421,10 @@
         },
         "BxilUr9Ac6zgekYU": {
             "__MONSTER_NAME__": "Kobold",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/kobold.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/kobold.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/kobold.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/kobold.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1432,10 +1432,10 @@
         },
         "j1Uy1uGIUxbtB0iD": {
             "__MONSTER_NAME__": "Kobold, Sorcerer",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/kobold-sorcerer.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/kobold-sorcerer.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/kobold-sorcerer.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/kobold-sorcerer.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1443,10 +1443,10 @@
         },
         "4A7ELy7Oj4YKRqTf": {
             "__MONSTER_NAME__": "Kraken",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/kraken.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/kraken.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/kraken.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/kraken.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1454,10 +1454,10 @@
         },
         "UGsq7I9Gyahgd0dG": {
             "__MONSTER_NAME__": "Leech, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/leech-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/leech-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/leech-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/leech-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1465,10 +1465,10 @@
         },
         "dNSmJX2keI0T2Gig": {
             "__MONSTER_NAME__": "Leprechaun",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/leprechaun.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/leprechaun.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/leprechaun.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/leprechaun.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1476,10 +1476,10 @@
         },
         "sncxcSi6ziTStjAh": {
             "__MONSTER_NAME__": "Lich",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/lich.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/lich.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/lich.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/lich.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1487,10 +1487,10 @@
         },
         "3InGAUnBJixja6ld": {
             "__MONSTER_NAME__": "Lion",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/lion.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/lion.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/lion.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/lion.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1498,10 +1498,10 @@
         },
         "h4e6ntO5vWTShNi9": {
             "__MONSTER_NAME__": "Lizardfolk",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/lizardfolk.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/lizardfolk.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/lizardfolk.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/lizardfolk.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1509,10 +1509,10 @@
         },
         "manaoose71vhAWCT": {
             "__MONSTER_NAME__": "Mage",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mage.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mage.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mage.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mage.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1520,10 +1520,10 @@
         },
         "0QznxquCW5qW69V6": {
             "__MONSTER_NAME__": "Mammoth",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mammoth.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mammoth.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mammoth.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mammoth.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1531,10 +1531,10 @@
         },
         "QhFsevIc23TsTHZE": {
             "__MONSTER_NAME__": "Manta Ray, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/manta-ray-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/manta-ray-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/manta-ray-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/manta-ray-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1542,10 +1542,10 @@
         },
         "LBjQecdHrFaX8SPj": {
             "__MONSTER_NAME__": "Manticore",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/manticore.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/manticore.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/manticore.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/manticore.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1553,10 +1553,10 @@
         },
         "lJyH2RWm3t5MB5iG": {
             "__MONSTER_NAME__": "Mastiff",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mastiff.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mastiff.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mastiff.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mastiff.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1564,10 +1564,10 @@
         },
         "u05UfQ9hKno0bwWj": {
             "__MONSTER_NAME__": "Medusa",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/medusa.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/medusa.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/medusa.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/medusa.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1575,10 +1575,10 @@
         },
         "CXZNV3102oiDkME4": {
             "__MONSTER_NAME__": "Merfolk",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/merfolk.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/merfolk.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/merfolk.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/merfolk.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1586,10 +1586,10 @@
         },
         "LFx9hb8JlEfGxDaI": {
             "__MONSTER_NAME__": "Mimic",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mimic.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mimic.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mimic.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mimic.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1597,10 +1597,10 @@
         },
         "c3Nvj86e0Layz3NG": {
             "__MONSTER_NAME__": "Minotaur",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/minotaur.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/minotaur.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/minotaur.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/minotaur.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1608,10 +1608,10 @@
         },
         "tfoTO9pQhnS0RAOH": {
             "__MONSTER_NAME__": "Moose",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/moose.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/moose.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/moose.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/moose.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1619,10 +1619,10 @@
         },
         "DP8n8iIiU1Qostjv": {
             "__MONSTER_NAME__": "Mordanticus The Flayed",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mordanticus-the-flayed.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mordanticus-the-flayed.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mordanticus-the-flayed.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mordanticus-the-flayed.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1630,10 +1630,10 @@
         },
         "kY87zSryGuQ963Ba": {
             "__MONSTER_NAME__": "Mummy",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mummy.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mummy.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mummy.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mummy.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1641,10 +1641,10 @@
         },
         "K2FMeD45kPEr8RNS": {
             "__MONSTER_NAME__": "Mushroomfolk",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/mushroomfolk.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/mushroomfolk.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/mushroomfolk.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/mushroomfolk.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1652,10 +1652,10 @@
         },
         "UDGXIj9pB0TdWPA6": {
             "__MONSTER_NAME__": "Naga",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/naga.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/naga.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/naga.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/naga.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1663,10 +1663,10 @@
         },
         "azSFk2v032NJ635x": {
             "__MONSTER_NAME__": "Naga, Bone",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/naga-bone.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/naga-bone.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/naga-bone.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/naga-bone.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1674,10 +1674,10 @@
         },
         "bxcbuzesUqGpEBxw": {
             "__MONSTER_NAME__": "Nightmare",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/nightmare.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/nightmare.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/nightmare.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/nightmare.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1685,10 +1685,10 @@
         },
         "6ce2xr1QmjJFMe5P": {
             "__MONSTER_NAME__": "Obe-ixx Of Azarumme",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/obe-ixx-of-azarumme.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/obe-ixx-of-azarumme.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/obe-ixx-of-azarumme.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/obe-ixx-of-azarumme.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1696,10 +1696,10 @@
         },
         "QErMaMVIbddgk9MX": {
             "__MONSTER_NAME__": "Ochre Jelly",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ochre-jelly.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ochre-jelly.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ochre-jelly.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ochre-jelly.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1707,10 +1707,10 @@
         },
         "h0NMkJj2DCJiQ9Zw": {
             "__MONSTER_NAME__": "Octopus, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/octopus-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/octopus-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/octopus-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/octopus-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1718,10 +1718,10 @@
         },
         "VrYTiPjDOH1LIEBr": {
             "__MONSTER_NAME__": "Ogre",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/ogre.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/ogre.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/ogre.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/ogre.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1729,10 +1729,10 @@
         },
         "yMyZ18conSZhwlpg": {
             "__MONSTER_NAME__": "Oni",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/oni.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/oni.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/oni.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/oni.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1740,10 +1740,10 @@
         },
         "Rq4WF5z0ZBFHNLub": {
             "__MONSTER_NAME__": "Orc",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/orc.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/orc.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/orc.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/orc.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1751,10 +1751,10 @@
         },
         "v2Q2R3tGkcvslEbB": {
             "__MONSTER_NAME__": "Orc, Chieftain",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/orc-chieftain.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/orc-chieftain.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/orc-chieftain.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/orc-chieftain.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1762,10 +1762,10 @@
         },
         "Crc6mFgLL9vNJuaS": {
             "__MONSTER_NAME__": "Otyugh",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/otyugh.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/otyugh.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/otyugh.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/otyugh.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1773,10 +1773,10 @@
         },
         "jXsS8HEA6XsvOngt": {
             "__MONSTER_NAME__": "Owlbear",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/owlbear.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/owlbear.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/owlbear.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/owlbear.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1784,10 +1784,10 @@
         },
         "dULmhpAV6apvNDPO": {
             "__MONSTER_NAME__": "Panther",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/panther.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/panther.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/panther.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/panther.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1795,10 +1795,10 @@
         },
         "V75YwrR126oziTKk": {
             "__MONSTER_NAME__": "Peasant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/peasant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/peasant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/peasant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/peasant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1806,10 +1806,10 @@
         },
         "5Tp7B3qOMEAdMkJ8": {
             "__MONSTER_NAME__": "Pegasus",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/pegasus.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/pegasus.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/pegasus.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/pegasus.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1817,10 +1817,10 @@
         },
         "o3Yd8P0DavwDp21b": {
             "__MONSTER_NAME__": "Phoenix",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/phoenix.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/phoenix.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/phoenix.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/phoenix.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1828,10 +1828,10 @@
         },
         "LZsDirxnEAlPoOhH": {
             "__MONSTER_NAME__": "Piranha, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/piranha-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/piranha-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/piranha-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/piranha-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1839,10 +1839,10 @@
         },
         "ZFH3OQCziTyacf5e": {
             "__MONSTER_NAME__": "Pirate",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/pirate.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/pirate.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/pirate.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/pirate.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1850,10 +1850,10 @@
         },
         "vVRAwuWbYEtPctOE": {
             "__MONSTER_NAME__": "Plesiosaurus",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/plesiosaurus.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/plesiosaurus.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/plesiosaurus.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/plesiosaurus.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1861,10 +1861,10 @@
         },
         "vRn6zM7a0nrqSiY5": {
             "__MONSTER_NAME__": "Priest",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/priest.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/priest.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/priest.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/priest.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1872,10 +1872,10 @@
         },
         "pB9F8QWYdWzfZMzs": {
             "__MONSTER_NAME__": "Primordial Slime",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/primordial-slime.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/primordial-slime.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/primordial-slime.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/primordial-slime.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1883,10 +1883,10 @@
         },
         "xIitpxW19LP91JA3": {
             "__MONSTER_NAME__": "Pterodactyl",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/pterodactyl.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/pterodactyl.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/pterodactyl.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/pterodactyl.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1894,10 +1894,10 @@
         },
         "VxV56gRyhUJfXu83": {
             "__MONSTER_NAME__": "Purple Worm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/purple-worm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/purple-worm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/purple-worm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/purple-worm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1905,10 +1905,10 @@
         },
         "JAl9s0Rm4b1beFa1": {
             "__MONSTER_NAME__": "Rakshasa",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rakshasa.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rakshasa.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rakshasa.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rakshasa.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1916,10 +1916,10 @@
         },
         "kRjM8lPIVu1b5b3g": {
             "__MONSTER_NAME__": "Rat",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rat.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rat.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rat.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rat.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1927,10 +1927,10 @@
         },
         "3jwLk7zEFiHk7kna": {
             "__MONSTER_NAME__": "Rat, Dire",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rat-dire.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rat-dire.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rat-dire.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rat-dire.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1938,10 +1938,10 @@
         },
         "OYtg4Ta4PIpvIZxq": {
             "__MONSTER_NAME__": "Rat, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rat-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rat-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rat-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rat-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1949,10 +1949,10 @@
         },
         "UxMr9qvyuIt9ZwM7": {
             "__MONSTER_NAME__": "Rat, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rat-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rat-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rat-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rat-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1960,10 +1960,10 @@
         },
         "o5xhxniboMbTCMLk": {
             "__MONSTER_NAME__": "Rathgamnon",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rathgamnon.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rathgamnon.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rathgamnon.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rathgamnon.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1971,10 +1971,10 @@
         },
         "HO9aYtRdsjHHAYHj": {
             "__MONSTER_NAME__": "Reaver",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/reaver.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/reaver.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/reaver.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/reaver.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1982,10 +1982,10 @@
         },
         "OrFJy0frYF2B8wbh": {
             "__MONSTER_NAME__": "Remorhaz",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/remorhaz.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/remorhaz.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/remorhaz.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/remorhaz.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -1993,10 +1993,10 @@
         },
         "SG7K5ZFCguR27Gxm": {
             "__MONSTER_NAME__": "Rhinoceros",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rhinoceros.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rhinoceros.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rhinoceros.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rhinoceros.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2004,10 +2004,10 @@
         },
         "pWIrU2mRsvTe17Nh": {
             "__MONSTER_NAME__": "Rime Walker",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rime-walker.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rime-walker.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rime-walker.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rime-walker.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2015,10 +2015,10 @@
         },
         "39kt1XjVZ4JZSdEj": {
             "__MONSTER_NAME__": "Roc",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/roc.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/roc.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/roc.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/roc.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2026,10 +2026,10 @@
         },
         "C0CuPZJOFDmuplw8": {
             "__MONSTER_NAME__": "Roper",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/roper.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/roper.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/roper.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/roper.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2037,10 +2037,10 @@
         },
         "pE0tXsYluDmktWNv": {
             "__MONSTER_NAME__": "Rot Flower",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rot-flower.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rot-flower.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rot-flower.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rot-flower.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2048,10 +2048,10 @@
         },
         "qISCrzLvHr4uQ9Q8": {
             "__MONSTER_NAME__": "Rust Monster",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/rust-monster.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/rust-monster.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/rust-monster.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/rust-monster.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2059,10 +2059,10 @@
         },
         "soe49ydTgVbQ0AwZ": {
             "__MONSTER_NAME__": "Sahuagin",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/sahuagin.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/sahuagin.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/sahuagin.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/sahuagin.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2070,10 +2070,10 @@
         },
         "t3Wr5E8hsOs1xtfK": {
             "__MONSTER_NAME__": "Salamander",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/salamander.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/salamander.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/salamander.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/salamander.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2081,10 +2081,10 @@
         },
         "U9moCUg8DnL6C0Sq": {
             "__MONSTER_NAME__": "Scarab, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/scarab-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/scarab-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/scarab-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/scarab-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2092,10 +2092,10 @@
         },
         "Hdpcnnvyh69C4BnO": {
             "__MONSTER_NAME__": "Scarecrow",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/scarecrow.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/scarecrow.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/scarecrow.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/scarecrow.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2103,10 +2103,10 @@
         },
         "lDXLWTA4FLMpAblB": {
             "__MONSTER_NAME__": "Scorpion",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/scorpion.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/scorpion.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/scorpion.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/scorpion.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2114,10 +2114,10 @@
         },
         "TZGzGBYncOs3r9ZF": {
             "__MONSTER_NAME__": "Scorpion, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/scorpion-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/scorpion-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/scorpion-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/scorpion-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2125,10 +2125,10 @@
         },
         "Fd7VgUIaCK6xQkS2": {
             "__MONSTER_NAME__": "Shadow",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/shadow.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/shadow.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/shadow.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/shadow.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2136,10 +2136,10 @@
         },
         "uTmirbJfdHFTag2i": {
             "__MONSTER_NAME__": "Shambling Mound",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/shambling-mound.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/shambling-mound.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/shambling-mound.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/shambling-mound.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2147,10 +2147,10 @@
         },
         "MQ6bhM8xiI39ziUU": {
             "__MONSTER_NAME__": "Shark",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/shark.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/shark.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/shark.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/shark.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2158,10 +2158,10 @@
         },
         "uQLXRcMggAhwFVMJ": {
             "__MONSTER_NAME__": "Shark, Megalodon",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/shark-megalodon.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/shark-megalodon.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/shark-megalodon.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/shark-megalodon.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2169,10 +2169,10 @@
         },
         "iaP5JVmGCrkkTAzO": {
             "__MONSTER_NAME__": "Siren",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/siren.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/siren.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/siren.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/siren.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2180,10 +2180,10 @@
         },
         "cWzG0yEVgIk8ijk6": {
             "__MONSTER_NAME__": "Skeleton",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/skeleton.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/skeleton.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/skeleton.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/skeleton.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2191,10 +2191,10 @@
         },
         "8tUERo3WvtZe9K8O": {
             "__MONSTER_NAME__": "Smilodon",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/smilodon.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/smilodon.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/smilodon.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/smilodon.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2202,10 +2202,10 @@
         },
         "anfsgfN2gFs72MHo": {
             "__MONSTER_NAME__": "Snake, Cobra",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/snake-cobra.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/snake-cobra.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/snake-cobra.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/snake-cobra.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2213,10 +2213,10 @@
         },
         "YHdOAuMUdCigLIHR": {
             "__MONSTER_NAME__": "Snake, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/snake-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/snake-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/snake-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/snake-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2224,10 +2224,10 @@
         },
         "cUUnqWyaNDYghKxE": {
             "__MONSTER_NAME__": "Snake, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/snake-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/snake-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/snake-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/snake-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2235,10 +2235,10 @@
         },
         "Kw5KEyZVy5ugaTTy": {
             "__MONSTER_NAME__": "Soldier",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/soldier.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/soldier.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/soldier.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/soldier.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2246,10 +2246,10 @@
         },
         "JjJbKB1yomE7Ma8T": {
             "__MONSTER_NAME__": "Sphinx",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/sphinx.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/sphinx.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/sphinx.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/sphinx.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2257,10 +2257,10 @@
         },
         "piZE4vxM1QjLxEt0": {
             "__MONSTER_NAME__": "Spider",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/spider.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/spider.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/spider.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/spider.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2268,10 +2268,10 @@
         },
         "p9PayU4K9nBZ8JRl": {
             "__MONSTER_NAME__": "Spider, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/spider-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/spider-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/spider-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/spider-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2279,10 +2279,10 @@
         },
         "rwE58nsTLAG7pW1u": {
             "__MONSTER_NAME__": "Spider, Swarm",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/spider-swarm.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/spider-swarm.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/spider-swarm.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/spider-swarm.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2290,10 +2290,10 @@
         },
         "bILTV7P0d55nACrQ": {
             "__MONSTER_NAME__": "Stingbat",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/stingbat.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/stingbat.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/stingbat.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/stingbat.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2301,10 +2301,10 @@
         },
         "MldOgsKh8tfL0IhT": {
             "__MONSTER_NAME__": "Strangler",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/strangler.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/strangler.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/strangler.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/strangler.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2312,10 +2312,10 @@
         },
         "NTRHmnsw7poR4rZ9": {
             "__MONSTER_NAME__": "The Tarrasque",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/the-tarrasque.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/the-tarrasque.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/the-tarrasque.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/the-tarrasque.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2323,10 +2323,10 @@
         },
         "hiZvVJPOJWtOXV4m": {
             "__MONSTER_NAME__": "The Ten-eyed Oracle",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/the-ten-eyed-oracle.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/the-ten-eyed-oracle.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/the-ten-eyed-oracle.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/the-ten-eyed-oracle.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2334,10 +2334,10 @@
         },
         "DbkmPt2k9fw5zxJw": {
             "__MONSTER_NAME__": "The Wandering Merchant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/the-wandering-merchant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/the-wandering-merchant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/the-wandering-merchant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/the-wandering-merchant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2345,10 +2345,10 @@
         },
         "Ap1b6HrZLpeRMvGp": {
             "__MONSTER_NAME__": "Thief",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/thief.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/thief.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/thief.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/thief.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2356,10 +2356,10 @@
         },
         "zQMZlqx02eiQwbhV": {
             "__MONSTER_NAME__": "Thug",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/thug.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/thug.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/thug.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/thug.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2367,10 +2367,10 @@
         },
         "0kzqjwTD3ouYsDZh": {
             "__MONSTER_NAME__": "Treant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/treant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/treant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/treant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/treant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2378,10 +2378,10 @@
         },
         "ZGILlry1pBhE4iDh": {
             "__MONSTER_NAME__": "Triceratops",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/triceratops.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/triceratops.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/triceratops.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/triceratops.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2389,10 +2389,10 @@
         },
         "eaA0qpZMGIgdIQYn": {
             "__MONSTER_NAME__": "Troll",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/troll.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/troll.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/troll.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/troll.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2400,10 +2400,10 @@
         },
         "5uzilW5qSX7bPzxe": {
             "__MONSTER_NAME__": "Troll, Frost",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/troll-frost.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/troll-frost.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/troll-frost.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/troll-frost.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2411,10 +2411,10 @@
         },
         "JlQsRP4Gr5VhDYVK": {
             "__MONSTER_NAME__": "Tyrannosaurus",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/tyrannosaurus.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/tyrannosaurus.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/tyrannosaurus.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/tyrannosaurus.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2422,10 +2422,10 @@
         },
         "Rh2bzqDRC1JF1FiG": {
             "__MONSTER_NAME__": "Unicorn",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/unicorn.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/unicorn.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/unicorn.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/unicorn.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2433,10 +2433,10 @@
         },
         "ei53dGxj76xmqQty": {
             "__MONSTER_NAME__": "Vampire",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/vampire.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/vampire.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/vampire.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/vampire.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2444,10 +2444,10 @@
         },
         "EDaGLKYYCT5rCMhY": {
             "__MONSTER_NAME__": "Vampire Spawn",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/vampire-spawn.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/vampire-spawn.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/vampire-spawn.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/vampire-spawn.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2455,10 +2455,10 @@
         },
         "SEZS6U1BW8lEznja": {
             "__MONSTER_NAME__": "Velociraptor",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/velociraptor.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/velociraptor.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/velociraptor.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/velociraptor.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2466,10 +2466,10 @@
         },
         "NyZfmD9E2ZPD4QdH": {
             "__MONSTER_NAME__": "Violet Fungus",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/violet-fungus.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/violet-fungus.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/violet-fungus.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/violet-fungus.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2477,10 +2477,10 @@
         },
         "1lgm8jaBx4YNXmr7": {
             "__MONSTER_NAME__": "Viperian",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/viperian.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/viperian.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/viperian.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/viperian.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2488,10 +2488,10 @@
         },
         "VRZ60vAEV5ltvs6k": {
             "__MONSTER_NAME__": "Viperian, Ophid",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/viperian-ophid.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/viperian-ophid.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/viperian-ophid.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/viperian-ophid.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2499,10 +2499,10 @@
         },
         "wgHzqAqBNsutUALU": {
             "__MONSTER_NAME__": "Viperian, Wizard",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/viperian-wizard.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/viperian-wizard.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/viperian-wizard.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/viperian-wizard.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2510,10 +2510,10 @@
         },
         "VvkJkRVLs6l9UaZy": {
             "__MONSTER_NAME__": "Void Spawn",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/void-spawn.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/void-spawn.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/void-spawn.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/void-spawn.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2521,10 +2521,10 @@
         },
         "QziiJsawKcGcS0QJ": {
             "__MONSTER_NAME__": "Void Spider",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/void-spider.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/void-spider.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/void-spider.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/void-spider.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2532,10 +2532,10 @@
         },
         "bzKSq624safyHLbE": {
             "__MONSTER_NAME__": "Vulture",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/vulture.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/vulture.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/vulture.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/vulture.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2543,10 +2543,10 @@
         },
         "K9M3BA8PlvYWFADe": {
             "__MONSTER_NAME__": "Wasp, Giant",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wasp-giant.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wasp-giant.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wasp-giant.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wasp-giant.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2554,10 +2554,10 @@
         },
         "dSiRSDzrV4AJNnMk": {
             "__MONSTER_NAME__": "Wererat",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wererat.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wererat.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wererat.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wererat.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2565,10 +2565,10 @@
         },
         "1Z2r4GggLt8aNrP8": {
             "__MONSTER_NAME__": "Werewolf",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/werewolf.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/werewolf.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/werewolf.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/werewolf.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2576,10 +2576,10 @@
         },
         "ZCbay6SPPzbbz2bJ": {
             "__MONSTER_NAME__": "Wight",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wight.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wight.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wight.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wight.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2587,10 +2587,10 @@
         },
         "Fo9DMEiLgAJzsrJM": {
             "__MONSTER_NAME__": "Will-o'-Wisp",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/will-o'-wisp.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/will-o'-wisp.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/will-o'-wisp.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/will-o'-wisp.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2598,10 +2598,10 @@
         },
         "FzBj2e0DzIjvQ0JE": {
             "__MONSTER_NAME__": "Wolf",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wolf.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wolf.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wolf.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wolf.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2609,10 +2609,10 @@
         },
         "fsxmTnmQ6ASZaVJ9": {
             "__MONSTER_NAME__": "Wolf, Dire",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wolf-dire.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wolf-dire.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wolf-dire.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wolf-dire.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2620,10 +2620,10 @@
         },
         "nugxSBkw9LcUDPqF": {
             "__MONSTER_NAME__": "Wolf, Winter",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wolf-winter.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wolf-winter.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wolf-winter.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wolf-winter.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2631,10 +2631,10 @@
         },
         "D5Tu4i3vYYqTCwUK": {
             "__MONSTER_NAME__": "Worg",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/worg.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/worg.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/worg.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/worg.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2642,10 +2642,10 @@
         },
         "ch1UpQSCVBgUNS2a": {
             "__MONSTER_NAME__": "Wraith",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wraith.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wraith.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wraith.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wraith.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2653,10 +2653,10 @@
         },
         "IUN6KcvNGGJWTQCE": {
             "__MONSTER_NAME__": "Wyvern",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/wyvern.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/wyvern.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/wyvern.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/wyvern.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
@@ -2664,10 +2664,10 @@
         },
         "Q89EgThYcungYTke": {
             "__MONSTER_NAME__": "Zombie",
-            "actor": "modules/shadowdark-community-tokens/artwork/series-1/portraits/zombie.webp",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/zombie.webp",
             "token": {
                 "texture": {
-                    "src": "modules/shadowdark-community-tokens/artwork/series-1/tokens/zombie.webp",
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/zombie.webp",
                     "scaleX": 1,
                     "scaleY": 1
                 }
