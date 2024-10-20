@@ -3,7 +3,7 @@
     "title": "Shadowdark RPG: Community Tokens",
     "version": "0.2",
     "compatibility": {
-    "minimum": "12",
+    "minimum": "11",
     "verified": "12"
     },
     "relationships": {
@@ -24,10 +24,8 @@
 		}
     ],
 	"flags": {
-        "compendiumArtMappings": {
-            "shadowdark": {
-                "mapping": "modules/shadowdark-community-tokens/artwork/mapping.json"
-            }
+        "shadowdark-community-tokens": {
+            "shadowdark-art": "modules/shadowdark-community-tokens/artwork/mapping.json"
         }
 	},
     "url": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-tokens",
