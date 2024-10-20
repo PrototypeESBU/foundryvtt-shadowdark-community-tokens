@@ -1,9 +1,9 @@
 {
     "id": "shadowdark-community-tokens",
     "title": "Shadowdark RPG: Community Tokens",
-    "version": "1.0.0",
+    "version": "0.2",
     "compatibility": {
-    "minimum": "11",
+    "minimum": "12",
     "verified": "12"
     },
     "relationships": {
@@ -16,8 +16,7 @@
     },
     "authors": [
 		{
-			"name": "Delgore",
-			"discord": "delgore"
+			"name": "Delgore"
 		},
         {
 			"name": "Prototype",
@@ -25,8 +24,13 @@
 		}
     ],
 	"flags": {
-        "shadowdark-community-tokens": {
-            "shadowdark-art": "modules/shadowdark-community-tokens/artwork/mapping.json"
+        "compendiumArtMappings": {
+            "shadowdark": {
+                "mapping": "modules/shadowdark-community-tokens/artwork/mapping.json"
+            }
         }
-	}
+	},
+    "url": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-tokens",
+	"manifest": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-tokens/releases/latest/download/module.json",
+	"download": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-tokens/releases/latest/download/module.zip"
 }
