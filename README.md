@@ -6,7 +6,7 @@ While this module is specifically designed for Foundry, the tokens and artwork c
 This is a community efort that includes artwork from many contributors and artists. All artwork is used with the given consent of the creators.
 
 ## Tokens Included
-- portraits and tokens for **144/243** of the core rules monsters
+- portraits and tokens for **207/243** of the core rules monsters
 
 ## Acknowledgements
 This project is based on the work by Bak. You can find Bak’s original work here:
