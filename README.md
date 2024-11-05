@@ -14,8 +14,9 @@ https://github.com/bakbakbakbakbak/shadowdark-art-template
 
 ### Contributing Artists
 Special thanks to those pen and pencil artists who helped out:
-Art of caustic for the wonderful darkmantle
-WatcherDM for the awesome stingbat
-JeriHoneywell for the aboleth lurking in the depth
-Futurewolf/Bak/Liquidsn8ke for the original project art
-Digital Artists include but not limited to:  Woolybeard, Torgab, Eldebor, Rai, Fenris and dozens and dozens of others.   I should have kept better notes to credit everyone.
+- Art of caustic for the wonderful darkmantle
+- WatcherDM for the awesome stingbat
+- JeriHoneywell for the aboleth lurking in the depth
+- Futurewolf/Bak/Liquidsn8ke for the original project art
+
+Digital Artists include but not limited to: Woolybeard,Torgab, Eldebor, Rai, Fenris and dozens and dozens of others. 
