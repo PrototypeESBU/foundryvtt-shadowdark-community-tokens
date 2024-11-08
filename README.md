@@ -5,8 +5,8 @@ This is a collection of tokens made with AI and by hand art to use with Foundry 
 While this module is specifically designed for Foundry, the tokens and artwork can be used in any VTT game. 
 This is a community efort that includes artwork from many contributors and artists. All artwork is used with the given consent of the creators.
 
-## Tokens Included
-- portraits and tokens for **207/243** of the core rules monsters
+## Includes
+- Replacement portrait and token art for all 243 core rule book monsters 
 
 ## Acknowledgements
 This project is based on the work by Bak. You can find Bak’s original work here:
