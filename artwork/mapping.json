@@ -198,6 +198,17 @@
                 }
             }
         },
+        "ubcYvhvDW1WywYcw": {
+            "__MONSTER_NAME__": "Basilisk Hatchling",
+            "actor": "modules/shadowdark-community-tokens/artwork/portraits/basilisk-hatchling.webp",
+            "token": {
+                "texture": {
+                    "src": "modules/shadowdark-community-tokens/artwork/tokens/basilisk-hatchling.webp",
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
+            }
+        },
         "EJ94w4A9mb9ETSGA": {
             "__MONSTER_NAME__": "Bat, Giant",
             "actor": "modules/shadowdark-community-tokens/artwork/portraits/bat-giant.webp",
