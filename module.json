@@ -1,10 +1,10 @@
 {
     "id": "shadowdark-community-tokens",
     "title": "Shadowdark Community Tokens",
-    "version": "1.1",
+    "version": "1.2",
     "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "12",
+    "verified": "13"
     },
     "relationships": {
         "systems": [
@@ -24,8 +24,10 @@
 		}
     ],
 	"flags": {
-        "shadowdark-community-tokens": {
-            "shadowdark-art": "modules/shadowdark-community-tokens/artwork/mapping.json"
+        "compendiumArtMappings": {
+            "shadowdark": {
+                "mapping": "modules/shadowdark-community-tokens/mapping.json"
+            }
         }
 	},
     "url": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-tokens",
