@@ -2723,8 +2723,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/ammitang.webp",
-                    "scaleX": 2,
-                    "scaleY": 2
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -2734,8 +2734,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/anaruk.webp",
-                    "scaleX": 2.1,
-                    "scaleY": 2.1
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -2745,8 +2745,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/anzu.webp",
-                    "scaleX": 1.8,
-                    "scaleY": 1.8
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -2822,8 +2822,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/biters.webp",
-                    "scaleX": 0.3,
-                    "scaleY": 0.3
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -2921,8 +2921,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/bone-devil.webp",
-                    "scaleX": 2,
-                    "scaleY": 2
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -2943,8 +2943,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/broodling.webp",
-                    "scaleX": 0.25,
-                    "scaleY": 0.25
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -2987,8 +2987,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/carcinid.webp",
-                    "scaleX": 1.8,
-                    "scaleY": 1.8
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3009,8 +3009,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/carnivorous-frog.webp",
-                    "scaleX": 0.5,
-                    "scaleY": 0.5
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3031,8 +3031,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/cat-sith.webp",
-                    "scaleX": 0.7,
-                    "scaleY": 0.7
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3042,8 +3042,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/catoblepas.webp",
-                    "scaleX": 3,
-                    "scaleY": 3
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3064,8 +3064,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/chain-devil.webp",
-                    "scaleX": 1.2,
-                    "scaleY": 1.2
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3163,8 +3163,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/crag-crawler.webp",
-                    "scaleX": 3,
-                    "scaleY": 3
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3174,8 +3174,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/cragbeak.webp",
-                    "scaleX": 1.1,
-                    "scaleY": 1.1
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
@@ -3614,8 +3614,8 @@
             "token": {
                 "texture": {
                     "src": "modules/shadowdark-community-tokens/monster24/tokens/giant-cockroach.webp",
-                    "scaleX": 2,
-                    "scaleY": 2
+                    "scaleX": 1,
+                    "scaleY": 1
                 }
             }
         },
