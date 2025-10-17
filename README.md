@@ -9,7 +9,7 @@ Automated token mappings is supported for the following systems:
 
 ## Includes
 - Replacement portrait and token art for all 243 core rule book monsters
-- Replacement portrait and token art for all 250 monsters by Tom Philips in Community Content
+- Replacement portrait and token art for all 250 monsters by Tom Philips in [Shadowdark Community Content](https://foundryvtt.com/packages/shadowdark-community-content)
 
 ## Acknowledgements
 ### Project Lead
