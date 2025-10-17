@@ -15,6 +15,9 @@ Automated token mappings is supported for the following systems:
 ### Project Lead
 - Delgore
 
+### Token Editing
+- Sasmira
+
 ### Contributing Artists
 Special thanks to those pen and pencil artists who helped out:
 - Art of caustic for the wonderful darkmantle
@@ -26,3 +29,6 @@ Digital Artists include but not limited to: Woolybeard,Torgab, Eldebor, Rai, Fen
 
 This project is based on the work by Bak. You can find Bak’s original work here:
 https://github.com/bakbakbakbakbak/shadowdark-art-template
+
+## AI Declaration
+Most of the tokens in these collections were generated using artificial intelligence (AI) tools. While the artwork has been curated and refined by the creators, the underlying imagery originates from AI-based generation. This artwork is intended for personal and non-commercial use in tabletop role-playing games and similar creative projects.
